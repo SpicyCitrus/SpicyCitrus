@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Im SpicyCitrus 👋
 
 ### Im a coder living in the united states and im working on my current project (Project Nimbus)
 ### Im a blind gamer
