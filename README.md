@@ -6,5 +6,6 @@
 ### Im currently only able to be contacted via the project nimbus discord server
 ### Im a youtuber/streamer
 ### Currently known languages: HTML,JS,C#,SQL,C++,BrainFuck,Python and currently learning C
+### Something else coming soon 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SpicyCitrus&theme=radical)
