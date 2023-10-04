@@ -9,6 +9,8 @@
 ### Something else coming soon 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SpicyCitrus&theme=radical)](https://git.io/streak-stats)
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SpicyCitrus&theme=radical)
 
 
