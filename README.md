@@ -8,4 +8,5 @@
 ### Currently known languages: HTML,JS,C#,SQL,C++,BrainFuck,Python and currently learning C
 ### Something else coming soon 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SpicyCitrus)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SpicyCitrus&theme=radical)
