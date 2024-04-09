@@ -4,9 +4,7 @@ Founder Of TimeByte
 
 I'm a coder living in the united states and im working on my current project (Project Nimbus)
 
-I am a 84% blind gamer
-
-I'm only able to currently be contacted through the 0b0t Archive Discord
+blind gamer
 
 I'm a youtuber and streamer.
 
