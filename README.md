@@ -2,7 +2,7 @@ Hi, I'm SpicyCitrus. 👋
 
 Founder Of TimeByte
 
-I'm a coder living in the united states and im working on my current project (Project Nimbus)
+I'm a coder living in the united states and im working on my current project (Project Paint)
 
 blind gamer
 
