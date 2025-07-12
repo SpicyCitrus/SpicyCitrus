@@ -10,7 +10,7 @@ I'm a youtuber and streamer.
 
 Currently known languages: 
 
-![My Skills](https://skillicons.dev/icons?i=html,js,cs,cpp,py,bf)
+![My Skills](https://skillicons.dev/icons?i=html,js,cs,cpp,py) and BF (no image for that)
 
 Learning:
 
