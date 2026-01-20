@@ -4,7 +4,7 @@ Founder Of TimeByte
 
 I'm a coder living in the united states and im working on my current project (Project Paint)
 
-blind gamer
+Let us become stardust again
 
 Currently known languages: 
 
