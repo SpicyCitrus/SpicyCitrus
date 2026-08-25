@@ -8,11 +8,17 @@ Let us become stardust again
 
 Currently known languages: 
 
-![My Skills](https://skillicons.dev/icons?i=html,js,cs,cpp,py) and BF (no image for that)
+[![My Skills](https://skillicons.dev/icons?i=python,js,java,c,cpp,cs,go,html,css,bash,react,nodejs&perline=6)](https://skillicons.dev)
 
-Learning:
 
-![My Skills](https://skillicons.dev/icons?i=c)
+Favorite Frameworks:
+
+[![Cloud](https://skillicons.dev/icons?i=aws,cloudflare,gcp,azure&perline=4)](https://skillicons.dev)
+
+
+Love arch but i know these:
+
+[![Operating Systems](https://skillicons.dev/icons?i=arch,ubuntu,apple,windows&perline=4)](https://skillicons.dev)
 
 Something else coming soon
 
